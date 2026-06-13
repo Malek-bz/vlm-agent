@@ -18,6 +18,10 @@ live: `python agent.py --webcam`
 
 needs OpenAI Whisper for voice
 
+
+\\\\\\
+classification data
+\\\\\\
 ```json
 {"bbox_2d": [57, 294, 563, 369], "label": "screw"},
 {"bbox_2d": [73, 384, 194, 498], "label": "screw"},
